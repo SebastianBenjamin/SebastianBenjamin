@@ -22,7 +22,5 @@
 
 ![snake gif](https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake.svg)
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SebastianBenjamin/SebastianBenjamin/output/github-contribution-grid-snake.svg" />
-
 ### Profile viewers count
   ![Visitor Count](https://profile-counter.glitch.me/SebastianBenjamin/count.svg)
