@@ -24,4 +24,4 @@
 
 ### Profile viewers count
   ![Visitor Count](https://profile-counter.glitch.me/SebastianBenjamin/count.svg)
-  ![snake gif](./github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake.svg)
