@@ -10,23 +10,28 @@
 
 ### 📫 How to reach me:
 <p align="center">
-  <a href="mailto:benjamincoder@example.com"><img src="https://img.icons8.com/material-rounded/24/000000/new-post.png"/></a>
-  <a href="https://www.linkedin.com/in/benjamin-sebastian-7015aa312/"><img src="https://img.icons8.com/color/24/000000/linkedin-circled--v1.png"/></a>
-  <a href="https://www.instagram.com/benju._.z/"><img src="https://img.icons8.com/fluency/24/000000/instagram-new.png"/></a>
+  <a href="mailto:benjaminsebastian156@gmail.com"><img src="https://img.icons8.com/material-rounded/48/000000/new-post.png"/></a>
+  <a href="https://www.linkedin.com/in/benjamin-sebastian-7015aa312/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
+  <a href="https://www.instagram.com/benju._.z/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
 ---
 
 ### 🛠 Some Tools I Have Used and Learned:
 <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </p>
 
 ---
