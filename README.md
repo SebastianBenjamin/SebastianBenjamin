@@ -38,14 +38,14 @@
 
 ### 💻 My GitHub History!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianBenk=jamin)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&count_private=true&theme=dark" />
 </p>
 
 ---
