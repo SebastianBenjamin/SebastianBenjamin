@@ -36,17 +36,12 @@
 
 ---
 
-### 💻 My GitHub History!
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianBenk=jamin)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+### 💻 My GitHub Stats!
 
----
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=transparent)
 
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&count_private=true&theme=dark" />
-</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=donut&bg_color=00000000&text_color=808080)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
