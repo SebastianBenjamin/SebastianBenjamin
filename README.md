@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+  <img src="https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
 ---
