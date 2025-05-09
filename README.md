@@ -1,132 +1,100 @@
+# 👋 Hi, I'm **Sebastian Benjamin** (@SebastianBenjamin)
 
-# 👋 Hi, I’m **Sebastian Benjamin** (@SebastianBenjamin)
-
-I'm a passionate developer and tech enthusiast with a strong focus on **IoT, Robotics, AI, Web Development, and Mobile Application Development**. I thrive on creating innovative solutions that bridge the gap between technology and real-world problems. Let's build the future together! 🌟
+I'm a passionate developer specializing in **IoT, AI, and Full-Stack Development**, creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
 
 ---
 
 ## 🌟 **About Me**
 
-- 🔭 **Interests**: IoT, Robotics, AI, Web Development, Mobile App Development.
-- 🌱 **Currently Learning**: Advanced IoT Firmware Development, MERN Stack, AI & Machine Learning.
-- 💡 **Looking to Collaborate**: Innovative IoT projects, AI-based applications, and cutting-edge web/mobile apps.
-- 🚀 **Goal**: To create impactful, scalable, and user-friendly tech solutions.
-
----
-
-## 📊 **GitHub Stats & Achievements**
+- 🔭 **Focus**: IoT Systems, AI Applications, Web/Mobile Development  
+- 🌱 **Learning**: Advanced Embedded Systems, MERN Stack, Machine Learning  
+- 💡 **Collaborate**: Open to innovative projects in IoT, AI, and cloud-based solutions  
+- 🚀 **Goal**: Develop scalable, user-centric technological solutions  
 
 <div align="center">
 
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=radical&hide_border=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-
-
 ---
 
-## 🛠 **Tech Stack & Tools**
+## 🛠 **Technical Expertise**
 
-### **Languages & Frameworks**
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
-</p>
+### **Core Technologies**
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Frameworks & Platforms**
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+### **AI/ML & Data**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ### **Databases & Cloud**
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-</p>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### **Tools & Platforms**
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-</p>
+### **Tools & IoT**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 📚 **Research & Publications**
 
-I actively contribute to the tech community through research and publications. Here are some of my notable works:
-
-1. **IoT-Based Intelligent Care System**  
-   Published in *JETIR, Volume 11, Issue 4, April 2024*.  
-   [Read Paper](https://www.jetir.org/download1.php?file=JETIR2404D70.pdf)
-
-2. **Smart Stethoscope for Predictive Health Monitoring**  
-   Published in *GIS Science Journal, Volume 11, Issue 4, April 2024*.  
-   [Read Paper](https://drive.google.com/file/d/1q6uluEJkZ_6pAfvmS0AXzQGnow0uEoqG/view)
-
-3. **EcoPurify Oil Management System**  
-   Published in *IRJMETS, Volume 6, Issue 4, April 2024*.  
-   [Read Paper](https://www.irjmets.com/uploadedfiles/paper//issue_4_april_2024/54331/final/fin_irjmets1714308572.pdf)
-
-4. **Crop-Optimized Greenhouse Control System**  
-   Published in *IJAREEIE, Volume 13, Issue 4, April 2024*.  
-   [Read Paper](https://www.ijareeie.com/upload/2024/april/44_Crop.pdf)
+| Publication | Journal | Link |
+|-------------|---------|------|
+| **IoT-Based Intelligent Care System** | JETIR, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://www.jetir.org/download1.php?file=JETIR2404D70.pdf) |
+| **Smart Stethoscope for Health Monitoring** | GIS Science Journal, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1q6uluEJkZ_6pAfvmS0AXzQGnow0uEoqG/view) |
+| **EcoPurify Oil Management System** | IRJMETS, 2024 | [![DOI](https://img.shields.io/badge/View_Paper-00A98F)](https://www.irjmets.com/uploadedfiles/paper//issue_4_april_2024/54331/final/fin_irjmets1714308572.pdf) |
 
 ---
 
-## 🎯 **Projects Highlights**
+## 🚀 **Project Highlights**
 
-- **IoT-Enabled Stethoscope**: A predictive health monitoring device.
-- **BEN AI**: An educational AI chatbot for personalized learning.
-- **EcoPurify**: An intelligent oil management system.
-- **Smart Greenhouse**: A crop-optimized control system.
+- **IoT Stethoscope**: Predictive health monitoring device  
+  ![IoT](https://img.shields.io/badge/-IoT-0077B5?logo=arduino) ![Embedded](https://img.shields.io/badge/-Embedded_C-00599C)
 
----
+- **BEN AI**: Educational chatbot for personalized learning  
+  ![AI](https://img.shields.io/badge/-AI-FF6F00?logo=tensorflow) ![NLP](https://img.shields.io/badge/-NLP-8A2BE2)
 
-## 📫 **Let's Connect!**
-
-<p align="center">
-  <a href="mailto:benjaminsebastian156@gmail.com">
-    <img src="https://img.icons8.com/material-rounded/48/000000/new-post.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/benjamin-sebastian-7015aa312/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/benju._.z/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
+- **Smart Greenhouse**: Crop-optimized control system  
+  ![Automation](https://img.shields.io/badge/-Automation-4CAF50) ![Python](https://img.shields.io/badge/-Python-3776AB)
 
 ---
 
-## 🐍 **Contribution Graph**
+## 📫 **Connect With Me**
+
+[![Email](https://img.shields.io/badge/Email-benjaminsebastian156%40gmail.com-D14836?logo=gmail)](mailto:benjaminsebastian156@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/benjamin-sebastian-7015aa312/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/benju._.z/)
+
+---
 
 <div align="center">
   <img src="https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SebastianBenjamin&label=Profile+Views&color=blueviolet)
+  
+  ### ⚡ **Fun Fact**: 
+  Developed an **IoT stethoscope** and **BEN AI** chatbot from scratch!
 </div>
 
 ---
 
-## 👀 **Profile Views**
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SebastianBenjamin/count.svg" alt="Profile Views"/>
-</div>
-
----
-
-### 😄 **Pronouns**: He/Him  
-### ⚡ **Fun Fact**: I developed an **IoT-enabled stethoscope** and an **AI chatbot** named BEN AI!
-
----
-
-<div align="center">
-  <h3>Thanks for visiting! Let's innovate together. 🚀</h3>
+  <h3>Let's create something extraordinary together! 🚀</h3>
 </div>
