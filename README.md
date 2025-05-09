@@ -33,7 +33,7 @@ I'm a passionate developer specializing in **Software development, IoT, AI, and 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
 
 ### **AI/ML & Data**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
