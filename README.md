@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Sebastian Benjamin** (@SebastianBenjamin)
 
-I'm a passionate developer specializing in **IoT, AI, and Full-Stack Development**, creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
+I'm a passionate developer specializing in **Software development, IoT, AI, and Full-Stack Development**, creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
 
 ---
 
 ## 🌟 **About Me**
 
-- 🔭 **Focus**: IoT Systems, AI Applications, Web/Mobile Development  
-- 🌱 **Learning**: Advanced Embedded Systems, MERN Stack, Machine Learning  
-- 💡 **Collaborate**: Open to innovative projects in IoT, AI, and cloud-based solutions  
+- 🔭 **Focus**: Software development, IoT Systems, AI Applications, Web/Mobile Development  
+- 🌱 **Learning**: Advanced Embedded Systems, AI Systems, Machine Learning  
+- 💡 **Collaborate**: Open to innovative projects in Software, Web, IoT, AI, and cloud-based solutions  
 - 🚀 **Goal**: Develop scalable, user-centric technological solutions  
 
 <div align="center">
@@ -53,13 +53,17 @@ I'm a passionate developer specializing in **IoT, AI, and Full-Stack Development
 
 ---
 
+
 ## 📚 **Research & Publications**
 
-| Publication | Journal | Link |
-|-------------|---------|------|
-| **IoT-Based Intelligent Care System** | JETIR, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://www.jetir.org/download1.php?file=JETIR2404D70.pdf) |
-| **Smart Stethoscope for Health Monitoring** | GIS Science Journal, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1q6uluEJkZ_6pAfvmS0AXzQGnow0uEoqG/view) |
-| **EcoPurify Oil Management System** | IRJMETS, 2024 | [![DOI](https://img.shields.io/badge/View_Paper-00A98F)](https://www.irjmets.com/uploadedfiles/paper//issue_4_april_2024/54331/final/fin_irjmets1714308572.pdf) |
+| Publication                                            | Journal                                             | Link                                                                                                                                                            |
+| ------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **IoT-Based Intelligent Care System**                  | JETIR, 2024                                         | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://www.jetir.org/download1.php?file=JETIR2404D70.pdf)                   |
+| **Smart Stethoscope for Predictive Health Monitoring** | GIS Science Journal, 2024                           | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1q6uluEJkZ_6pAfvmS0AXzQGnow0uEoqG/view)      |
+| **An Overview on Quantum-Driven Machine Learning**     | Aquinas Journal of Multidisciplinary Research, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1AbcdEFG1234/view)                           |
+| **EcoPurify Oil Management System**                    | IRJMETS, 2024                                       | [![DOI](https://img.shields.io/badge/View_Paper-00A98F)](https://www.irjmets.com/uploadedfiles/paper//issue_4_april_2024/54331/final/fin_irjmets1714308572.pdf) |
+| **Crop-Optimized Greenhouse Control System**           | IJAREEIE, 2024                                      | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1xYZ1234/view)                               |
+
 
 ---
 
