@@ -35,6 +35,14 @@ I'm a passionate developer specializing in **Software development, IoT, AI, and 
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white)
 
 
+### **Frontend Technologies**
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3\&logoColor=white)
+![JSP](https://img.shields.io/badge/-JSP-323330?logo=java\&logoColor=white)
+
+
+
 ### **AI/ML & Data**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -67,16 +75,24 @@ I'm a passionate developer specializing in **Software development, IoT, AI, and 
 
 ---
 
-## 🚀 **Project Highlights**
+### 🚀 **Project Highlights**
 
-- **IoT Stethoscope**: Predictive health monitoring device  
-  ![IoT](https://img.shields.io/badge/-IoT-0077B5?logo=arduino) ![Embedded](https://img.shields.io/badge/-Embedded_C-00599C)
+* **The Covenant - Bible App**: A mobile app for exploring the Bible with a verse of the day, text-to-speech, and chapter selection.
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
+  🌐 **Live Demo:** [The Covenant](http://thecovenant.netlify.app/)
 
-- **BEN AI**: Educational chatbot for personalized learning  
-  ![AI](https://img.shields.io/badge/-AI-FF6F00?logo=tensorflow) ![NLP](https://img.shields.io/badge/-NLP-8A2BE2)
+* **Prakruti Nishchikaran**: An ML-powered app for determining Prakruti Dosha.
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
+  🌐 **Live Demo:** [Prakruti Nishchikaran](https://prakrutinischikaran.netlify.app/)
 
-- **Smart Greenhouse**: Crop-optimized control system  
-  ![Automation](https://img.shields.io/badge/-Automation-4CAF50) ![Python](https://img.shields.io/badge/-Python-3776AB)
+* **Yummigram**: An API-based recipe finder app.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![API](https://img.shields.io/badge/-API-3C873A)
+  🌐 **Live Demo:** [Yummigram](https://sebastianbenjamin.github.io/yummigram.com/)
+
+* **Our Player**: A real-time music sharing platform for friends.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+  🌐 **Live Demo:** [Our Player](https://sebastianbenjamin.github.io/ouplayerdb/)
+
 
 ---
 
