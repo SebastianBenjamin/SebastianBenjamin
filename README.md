@@ -78,7 +78,7 @@ I'm a passionate developer specializing in **Software development, IoT, AI, and 
 ### 🚀 **Project Highlights**
 
 * **The Covenant - Bible App**: A mobile app for exploring the Bible with a verse of the day, text-to-speech, and chapter selection.
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
   🌐 **Live Demo:** [The Covenant](http://thecovenant.netlify.app/)
 
 * **Prakruti Nishchikaran**: An ML-powered app for determining Prakruti Dosha.
