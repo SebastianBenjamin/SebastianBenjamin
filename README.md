@@ -17,10 +17,27 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 - 💡 **Collaborate**: Open to innovative projects in Software, Web, IoT, AI, and cloud-based solutions  
 - 🚀 **Goal**: Develop scalable, user-centric technological solutions  
 
-<div align="center">
+<div align="center" >
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=radical&hide_border=true)
+<div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+
+<!-- Repository Stars -->
+<a href="https://github.com/SebastianBenjamin?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FSebastianBenjamin&color=blueviolet" alt="Total Stars" />
+</a>
+
+<!-- Total Contributions -->
+<img src="https://img.shields.io/badge/Total%20Contributions-523-blue?style=flat" alt="Total Contributions" />
+
+<!-- Current Streak -->
+<img src="https://img.shields.io/badge/Current%20Streak-2%20days-green?style=flat" alt="Current Streak" />
+
+<!-- Longest Streak -->
+<img src="https://img.shields.io/badge/Longest%20Streak-5%20days-orange?style=flat" alt="Longest Streak" />
+
+</div>
 
 </div>
 
