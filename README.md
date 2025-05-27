@@ -12,8 +12,8 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 
 ## 🌟 **About Me**
 
-- 🔭 **Focus**: Software development, IoT Systems, AI Applications, Web/Mobile Development  
-- 🌱 **Learning**: Advanced Embedded Systems, AI Systems, Machine Learning  
+- 🔭 **Focus**: Software development,AI ML Applications, GenAI, IoT Systems, Web/Mobile Development  
+- 🌱 **Learning**: Advanced Embedded Systems, AI Systems, Machine Learning , Gen AI 
 - 💡 **Collaborate**: Open to innovative projects in Software, Web, IoT, AI, and cloud-based solutions  
 - 🚀 **Goal**: Develop scalable, user-centric technological solutions  
 
