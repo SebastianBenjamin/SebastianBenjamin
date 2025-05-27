@@ -1,6 +1,12 @@
-# 👋 Hi, I'm **Sebastian Benjamin** (@SebastianBenjamin)
-
-I'm a passionate developer specializing in **Software development, IoT, AI, and Full-Stack Development**, creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
+# 👋 Hi, I'm **Benjamin Sebastian** (@SebastianBenjamin)
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=FF7F50&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+@SebastianBenjamin;Software+Developer;IoT+Enthusiast;AI+ML;Researcher;Java+Full-Stack+Developer;Learner;" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
+I'm a passionate developer specializing in Software development, IoT, AI and Full-Stack Development , creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
 
 ---
 
