@@ -101,11 +101,11 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 ### 🚀 **Project Highlights**
 
 * **The Covenant - Bible App**: A mobile app for exploring the Bible with a verse of the day, text-to-speech, and chapter selection.
-  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)![API](https://img.shields.io/badge/-API-3C873A)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) 
   🌐 **Live Demo:** [The Covenant](http://thecovenant.netlify.app/)
 
 * **Prakruti Nishchikaran**: An ML-powered app for determining Prakruti Dosha.
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7)![API](https://img.shields.io/badge/-API-3C873A)
   🌐 **Live Demo:** [Prakruti Nishchikaran](https://prakrutinischikaran.netlify.app/)
 
 * **Yummigram**: An API-based recipe finder app.
