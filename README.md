@@ -112,9 +112,9 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![API](https://img.shields.io/badge/-API-3C873A)
   🌐 **Live Demo:** [Yummigram](https://sebastianbenjamin.github.io/yummigram.com/)
 
-* **Our Player**: A real-time music sharing platform for friends.
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-  🌐 **Live Demo:** [Our Player](https://sebastianbenjamin.github.io/ouplayerdb/)
+* **MuSync**: A real-time music sharing platform for friends.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![API](https://img.shields.io/badge/-API-3C873A)
+  🌐 **Live Demo:** [MuSync](https://play-musync.netlify.app/)
 
 
 ---
