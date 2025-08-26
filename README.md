@@ -19,8 +19,8 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 
 <div align="center" >
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianBenjamin&show_icons=true&theme=light&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBenjamin&layout=compact&theme=light&hide_border=true)
 <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
 <!-- Repository Stars -->
