@@ -1,4 +1,6 @@
 # 👋 Hi, I'm **Benjamin Sebastian** [@SebastianBenjamin](https://github.com/SebastianBenjamin)
+
+
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
@@ -8,6 +10,7 @@
 </div>
 I'm a passionate developer specializing in Software development, IoT, AI and Full-Stack Development , creating innovative solutions that bridge technology with real-world impact. Let's build the future together! 🌟
 
+[![Say me hi!](https://img.shields.io/badge/Contact-Me%20Now-brightgreen)](https://benjaminsebastian.netlify.app/#contact)
 ---
 
 ## 🌟 **About Me**
