@@ -76,11 +76,15 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ### **Tools & IoT**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Powerbi](https://img.shields.io/badge/Power_bi-yellow)
+![Excel](https://img.shields.io/badge/Excel-green)
+![Tableau](https://img.shields.io/badge/Tableau-lightblue)
 
 ---
 
