@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **Benjamin Sebastian** (@SebastianBenjamin)
+# 👋 Hi, I'm **Benjamin Sebastian** [@SebastianBenjamin](https://github.com/SebastianBenjamin)
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=FF7F50&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+@SebastianBenjamin;Software+Developer;IoT+Enthusiast;AI+ML;Researcher;Java+Full-Stack+Developer;Learner;" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=FF7F50&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+@SebastianBenjamin;Software+Developer;IoT+Enthusiast;AI+ML+Enthusiast;Researcher;Java+Full-Stack+Developer;Learner;" alt="Typing SVG" />
     </a>
   </h1>
 </div>
