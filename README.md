@@ -55,7 +55,7 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 ### **Frameworks & Platforms**
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green)
 
 
 ### **Frontend Technologies**
