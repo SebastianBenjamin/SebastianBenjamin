@@ -92,7 +92,11 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 ---
 
 
-## 📚 **Research & Publications**
+## 📚 **Research , Publications & Patents**
+| Project                                            | Status                                             |
+| ------------------------------------------------------ | --------------------------------------------------- |
+|PRAKRITI-AYURSENSORA-AI-NEBULIZER|Applied for patent|
+|IoT Smart Energy Control System |Applied for patent|
 
 | Publication                                            | Journal                                             | Link                                                                                                                                                            |
 | ------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,8 +105,6 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 | **An Overview on Quantum-Driven Machine Learning**     | Aquinas Journal of Multidisciplinary Research, 2024 | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1AbcdEFG1234/view)                           |
 | **EcoPurify Oil Management System**                    | IRJMETS, 2024                                       | [![DOI](https://img.shields.io/badge/View_Paper-00A98F)](https://www.irjmets.com/uploadedfiles/paper//issue_4_april_2024/54331/final/fin_irjmets1714308572.pdf) |
 | **Crop-Optimized Greenhouse Control System**           | IJAREEIE, 2024                                      | [![PDF](https://img.shields.io/badge/Read_Paper-EC1C24?logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1xYZ1234/view)                               |
-
-
 ---
 
 ### 🚀 **Project Highlights**
