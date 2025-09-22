@@ -137,6 +137,8 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 ---
 
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/SebastianBenjamin/SebastianBenjamin/refs/heads/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph"/>
   <img src="https://github.com/SebastianBenjamin/SebastianBenjamin/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SebastianBenjamin&label=Profile+Views&color=blueviolet)
