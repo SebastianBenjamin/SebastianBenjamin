@@ -132,7 +132,7 @@ I'm a passionate developer specializing in Software development, IoT, AI and Ful
 
 [![Email](https://img.shields.io/badge/Email-benjaminsebastian156%40gmail.com-D14836?logo=gmail)](mailto:benjaminsebastian156@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/benjamin-sebastian-7015aa312/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/benju._.z/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/benjaminsebastian.in/)
 
 ---
 
